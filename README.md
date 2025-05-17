@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 
- <p>🌱 I’m currently studying at Faculty of Technology,University of Sri Jayawardenepura</p>p
- <p>📫 How to reach me:infoanuhas100@gmail.com</p>p
+ <p>🌱 I’m currently studying at Faculty of Technology,University of Sri Jayawardenepura</p>
+ <p>📫 How to reach me:infoanuhas100@gmail.com</p>
 
 
