@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">💻 [Your Role, e.g., Developer | Designer | Student]</h3>
+<h1 align="center">Hi there 👋, I'm Venura Anuhas</h1>
+<h3 align="center">💻I'm a University Student</h3>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME?tab=repositories">
@@ -16,15 +16,10 @@
 ---
 
 ### **About Me**  
-- 🔭 I’m currently working on **[your project]**  
-- 🌱 I’m learning **[tech/skill, e.g., React, Python, ML]**  
-- 👯 I’m looking to collaborate on **[open-source, web dev, etc.]**  
-- 🤔 I’m looking for help with **[something you're stuck on]**  
-- 💬 Ask me about **[your expertise, e.g., JavaScript, UI/UX]**  
-- 📫 How to reach me: **[Email | Twitter | LinkedIn]**  
-- 😄 Pronouns: **[e.g., He/Him, She/Her, They/Them]**  
-- ⚡ Fun fact: **[Something interesting about you]**  
-
+- 🔭 I’m currently studying at Faculty of Technology,University of Sri Jayawardhanapura.
+- 🌱 I’m learning web development, programming(pyhton , java), CTF.  
+- 📫 How to reach me: infoanuhas100@gmail.com  
+- 😄 Pronouns: He 
 ---
 
 ### **🛠️ Tech Stack**  
