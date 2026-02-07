@@ -5,9 +5,7 @@
   <a href="https://github.com/YOUR_USERNAME?tab=repositories">
     <img src="https://img.shields.io/badge/My%20Projects-View%20Here-blue?style=for-the-badge&logo=github" alt="My Projects">
   </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
+  
   <a href="https://linkedin.com/in/YOUR_PROFILE">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
@@ -34,9 +32,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages">
-</p>
+
 
 ---
 
